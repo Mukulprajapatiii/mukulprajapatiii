@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMsat-0f4iGq5C7f3zTFm_aMHTCe4_wQNxtPhJIZNYfnT0cpuxZlFcdc7lJTPeO2O2eo&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMsat-0f4iGq5C7f3zTFm_aMHTCe4_wQNxtPhJIZNYfnT0cpuxZlFcdc7lJTPeO2O2eo&usqp=CAU](https://contentstatic.techgig.com/photo/78184399/3-Best-programming-languages-to-learn-coding.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mukul Prajapati</h1>
 <h3 align="center">A proactive being looking for good opportunities and good people :/</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
